@@ -17,7 +17,7 @@ This project is a comprehensive implementation and analysis of various algorithm
 Two types of datasets were generated for this project:
 
 ### Dataset 1
-- Generated based on the group leader's student ID (1211102398)
+- Generated based on the student ID (1211101555)
 - Six different datasets of varying sizes: 100, 1,000, 10,000, 100,000, 250,000, and 500,000
 - Used for sorting algorithm analysis
 
@@ -65,15 +65,3 @@ The 0/1 Knapsack problem was solved using dynamic programming:
 - Space Complexity: O(nW)
 
 Where n is the number of stars and W is the maximum weight capacity.
-
-## How to Run
-(Include instructions on how to run each part of the project, including any dependencies or setup required)
-
-## Contributors
-- Nicholas Tiow Kai Bo (Group Leader)
-- Low Kai Yan
-- Wong Jui Hong
-- Wong Wei Ping
-
-## License
-(Include any license information if applicable)
